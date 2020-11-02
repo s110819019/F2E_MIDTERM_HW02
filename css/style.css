@@ -94,7 +94,7 @@ body{
     border: 0px;
 }
 .align{
-    padding-left: 0%;
+    padding-left: 20%;
 }
 .sort_list{
     display: flex;
@@ -166,7 +166,7 @@ body{
 /*Content Style*/
 .content{
     width: 72%;
-    margin-left: 0;
+    margin: auto;
     margin-top: -10px;
     border-top: 2px solid rgb(211, 211, 211);
     padding-top: 80px;
